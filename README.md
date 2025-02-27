@@ -1,1 +1,1 @@
-# DS2 - 2025
+### Repositório de projeto da disciplina Desenvolvimento de Sistemas 2.
